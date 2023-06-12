@@ -1,0 +1,16 @@
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\bin\Debug\zk4500.exe.config
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\bin\Debug\zk4500.exe
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\bin\Debug\zk4500.pdb
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\bin\Debug\AxInterop.ZKFPEngXControl.dll
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\bin\Debug\Interop.ZKFPEngXControl.dll
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\bin\Debug\stdole.dll
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\obj\Debug\zk4500.csproj.AssemblyReference.cache
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\obj\Debug\zk4500.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\obj\Debug\zk4500.Form1.resources
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\obj\Debug\zk4500.Properties.Resources.resources
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\obj\Debug\zk4500.csproj.GenerateResource.cache
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\obj\Debug\zk4500.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\obj\Debug\zk4500.csproj.CopyComplete
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\obj\Debug\zk4500.exe
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\obj\Debug\zk4500.pdb
+D:\Visual Studio\Source\project\ZKTeco-ZK4500-master\zk4500\bin\Debug\libzkfpcsharp.dll
